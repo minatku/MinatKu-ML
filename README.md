@@ -4,7 +4,6 @@
 * [General Info](#general-info)
 * [Roadmap](#roadmap)
 * [Python Libraries](#python-libraries)
-* [Models](#models)
 * [Contact](#contact)
 * [Documentation](#documentation)
 
@@ -20,10 +19,6 @@ We built the model in Google Colab using the following libraries
 * [TensorFlow](https://www.tensorflow.org/)
 * [Keras](https://keras.io/)
 * [Scikit Learn](https://scikit-learn.org/stable/)
-
-# Models
-* Neural Network
-* 
 
 # Contact
 For further information, kindly contact to :
