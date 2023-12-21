@@ -11,19 +11,19 @@
 This is the machine learning part of CH2-PS229 capstone project called MinatKu. This application will help students to achieve improvement in the alignment between their majors and interests by creating an accessible online career guidance platform and personalized major recommendations from assessments test.
 
 # Roadmap
-### Data Collection
+#### 1. Data Collection
 The initial step involves gathering data to create a dataset, which can be found in the "Data Cleaning and Preprocessing" folder.
 
-### Data Cleaning and Preprocessing
+#### 2. Data Cleaning and Preprocessing
 Following data collection, we proceed to clean and process the raw data to generate a cleaned dataset.
 
-### Model Development
+#### 3. Model Development
 Next, we attempt to create a random model using a Neural Network. However, the achieved accuracy falls short of expectations.
 
-### Model Optimization
+#### 4. Model Optimization
 In response, efforts are made to enhance the model architecture, leading to improved accuracy that meets the desired standards.
 
-### Model Deployment
+#### 5. Model Deployment
 Upon successful model creation, the model is deployed using a Flask API.
 
 # Python Libraries
