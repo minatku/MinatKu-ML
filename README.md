@@ -8,7 +8,7 @@
 * [Documentation](#documentation)
 
 # General Info
-This is the machine learning part of CH2-PS229 capstone project called MinatKu. This application will help students to achieve improvement in the alignment between their majors and interests by creating an accessible online career guidance platform and personalized major recommendations from assessments test.
+This is the machine learning part of CH2-PS229 Capstone Project at Bangkit Academy called MinatKu. This application will help students to achieve improvement in the alignment between their majors and interests by creating an accessible online career guidance platform and personalized major recommendations from assessments test.
 
 # Roadmap
 #### 1. Data Collection
